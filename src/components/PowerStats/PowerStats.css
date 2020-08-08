@@ -1,0 +1,37 @@
+.powerstats {
+    width: 90px;
+    height: 230px;
+}
+
+.table {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: left;
+    margin-right: 45px;
+}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+  
+.left {
+    left: 0;
+}
+  
+.right {
+    right: 0;
+}
+
+.image {
+    margin: 0 10px 25px 0;
+    width: 160px;
+    height: 220px;
+}
+
+
